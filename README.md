@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TCooper1996
 - 👀 I’m interested in developing with any distributed programming language, especially within the domain of object-oriented and functional programming.
 - 🌱 I’m currently learning Unity game engine to practice working with large software projects.
-I have experience with many langauges, including c/c++, Java, Javascript, Typescript, and Clojure, and my favorites are Python, C# and Haskell.
+I have experience with many langauges, including c/c++, Go, Java, Javascript, and Typescript, and my favorites are Python, C# and Haskell.
 I'm also familiar front-end frameworks such as Django and React.
 
 <!---
